@@ -100,6 +100,7 @@
 							<suiteXmlFile>facebook.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
+						
 								
 		</plugin>
         
