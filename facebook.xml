@@ -5,6 +5,11 @@
     <classes>
         <class name="facebook_testcase.Testcase1_Login"/>
       <class name="facebook_testcase.Testcase2_Search"/>
+      
+       <class name="Utility_assignment.DDT_assign"/>
+      <class name="Utility_assignment.Listeners_FB"/>
+       <class name="Utility_assignment.Retry_fb"/>
+    
   
     </classes>
   </test> <!-- Test -->
